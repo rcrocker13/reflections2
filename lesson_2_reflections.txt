@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository you're creating a system to track changes to the files within the repo. This system allows you to promote new developments, brach off for experimentation as well as collaborate with others who also have access to the repo.
+
+ 
