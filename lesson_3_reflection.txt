@@ -16,12 +16,14 @@ A fork is like a hosted clone. Forks are restricted to GitHub exclusively. Clone
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-This can be useful when you need to compare diffs but might not have access to wifo.
+This can be useful when you need to compare diffs but might not have access to wifi.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Without github I would need to work with an application that has version control baked in. If a tool like that isn't available, then I'd be passing files back and forth via email.
+
+A tool that facilitates this workflow would be fine. There may be some bottlenecks, but at least we wouldn't have to duplicate files. Emailing files back and forth will inevitably lead to rework.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
