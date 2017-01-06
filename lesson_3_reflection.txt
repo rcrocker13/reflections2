@@ -11,12 +11,12 @@ Manually pulling changes makes sense when you consider other contributors may be
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+A fork is like a hosted clone. Forks are restricted to GitHub exclusively. Clones are duplications of repositories that can take place locally or on GitHub. Branches are off shoots of commit history from your master branch.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+This can be useful when you need to compare diffs but might not have access to wifo.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
