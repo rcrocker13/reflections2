@@ -28,4 +28,4 @@ A tool that facilitates this workflow would be fine. There may be some bottlenec
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would make changes in a seperate branch when I'm doing my own work on a project with collaborators. This has the advantage of require contributions to go through a review process. If all the work was to be done on master work would continue to move along, but you would either be the sole contributor or you'd be pushing your laptop around to get your code reviewed.
